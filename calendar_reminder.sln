@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "calendar_reminder", "calendar_reminder.pyproj", "{44781737-1D7B-4693-AE5F-4A4A7F8EE2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44781737-1D7B-4693-AE5F-4A4A7F8EE2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44781737-1D7B-4693-AE5F-4A4A7F8EE2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BC0D2D-2224-4241-9EF5-345BD88C8013}
+	EndGlobalSection
+EndGlobal
